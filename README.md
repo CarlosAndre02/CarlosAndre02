@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Node, Typescript, Postgres and React**
 
-<!-- - 📫 How to reach me: **email@email.com** -->
+- 📫 How to reach me: **dev.carlosandre@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
