@@ -20,6 +20,4 @@
 <br><br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlosandre02&show_icons=true&locale=en&layout=compact" alt="carlosandre02" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosandre02&show_icons=true&locale=en" alt="carlosandre02" /></p>
-
-![Snake animation](https://github.com/CarlosAndre02/CarlosAndre02/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/CarlosAndre02/CarlosAndre02/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
